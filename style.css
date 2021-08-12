@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Roboto+Mono:wght@300;500&family=Poppins:wght@600&display=swap');
 
+.rounded-pill {
+  border-radius: 50px 50px 50px 50px;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -616,7 +620,7 @@ p {
 /* copyright Section */
 #copyright {
   padding: 1rem 0;
-  background-color: #221052;
+  background-color: #3d83c5;
   margin: auto;
   text-align: center;
 }
